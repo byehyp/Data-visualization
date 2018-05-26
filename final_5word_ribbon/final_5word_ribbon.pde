@@ -12,13 +12,13 @@ void setup(){
   String search2 = " : ";
   String search3 = "년";
   
-  String letsfindthis = "사랑해";   /* 찾을 단어들을 저장하는 과정 */
-  String letsfindthis2 = "미안";
-  String letsfindthis3 = "오빠";
- // String letsfindthis4 = "야옹";  /* 처음에 6개까지 했다가 최종적으로는 1개를 빼고 5개만 출력함*/
-  String letsfindthis5 = "효연";
-  String letsfindthis6 = "내꾸";
-  String letsfindthis7 = "니꾸";
+  String letsfindthis = "I love you";   /* insert words that you want to find */
+  String letsfindthis2 = "Sorry";
+  String letsfindthis3 = "Hi";
+ // String letsfindthis4 = "Hey";  /* 처음에 6개까지 했다가 최종적으로는 1개를 빼고 5개만 출력함*/
+  String letsfindthis5 = "Bye";
+  String letsfindthis6 = "Good night";
+  String letsfindthis7 = "miss you";
   
   
   PShape[] b = new PShape[6];           // 도형들을 입력하는 과정
